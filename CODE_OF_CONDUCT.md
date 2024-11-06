@@ -1,6 +1,7 @@
 # K0s Community Code of Conduct
 
 All members of the K0s community must abide by the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md).
+
 TL;DR; Be nice and supportive to others in all interactions. :smile:
 
 ## Reporting
