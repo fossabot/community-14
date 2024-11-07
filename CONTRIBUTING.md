@@ -1,7 +1,8 @@
 # Contributing to k0sproject
 
-Thank you for taking the time to make a contribution to k0s and related project. The following document is a set of guidelines and instructions for contributing to k0sproject
-and acts as a high level overview. Each of the sub-project _may_ have their own more detailed instructions and guides for contributing.
+Thank you for taking the time to make a contribution to k0s and related project. The following document is a set of guidelines and instructions for contributing to k0sproject and acts as a high level overview.
+
+Each of the sub-project _may_ have their own more detailed instructions and guides for contributing.
 
 In general, it is usually a good idea to first discuss the change you wish to make by opening an issue. For trivial things and fixes a direct pull request is of course good.
 
@@ -41,3 +42,8 @@ to do so now! Make sure to [follow us on X][@k0sproject] as well 😊
 
 [k0s@medium]: https://medium.com/k0sproject
 [@k0sproject]: https://x.com/k0sproject
+
+
+
+
+
