@@ -42,8 +42,3 @@ to do so now! Make sure to [follow us on X][@k0sproject] as well 😊
 
 [k0s@medium]: https://medium.com/k0sproject
 [@k0sproject]: https://x.com/k0sproject
-
-
-
-
-
