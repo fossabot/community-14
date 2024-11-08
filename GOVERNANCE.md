@@ -40,7 +40,10 @@ k0s follows the CNCF vendor neutrality guidelines documented at:
 
 ## Meetings
 
-k0s community meetings follow a defined [schedule](https://k0s.io/community/#community-meetings).
+The k0s Project community has one regular community meeting:
+
+  * Meets monthly, Last Tuesday of every month 1:00 PM  GMT
+  * [Agenda & Meeting Notes](https://docs.google.com/document/d/1K7kc4nARFsM60RpzWF7xREF9FHySDuWSu9_6dstkLlg/edit?tab=t.0#heading=h.s485wlw1do6e)
 
 The maintainers may also have closed meetings to discuss security reports or Code of Conduct violations. Such meetings should be scheduled by any maintainer on receipt of a security issue or CoC report. All current Maintainers must be invited to such closed meetings, except for any maintainer who is accused of a CoC violation.
 
@@ -75,10 +78,11 @@ Contributors are individuals who have made at least five (5) contributions to th
 
 - Listed in the file in at least one (1) organization repository
 - k0s contributor badge issued
+- The PR will run CI without the maintainers approval
 
-To join the k0s project as a Contributor create a Pull Request (PR) in the [k0s repository](https://github.com/k0s/k0s) with the following:
+To join the k0s project as a Contributor create a Pull Request (PR) in the [k0s repository](https://github.com/k0sproject/k0s) with the following:
 
-1. Changes to add yourself to the [CONTRIBUTORS.md](https://github.com/k0s/k0s/blob/main/CONTRIBUTORS.md) file.
+1. Changes to add yourself to the [CONTRIBUTORS.md](https://github.com/k0sproject/k0s/blob/main/CONTRIBUTORS.md) file.
 2. Links to your prior contributions (at least five).
 3. Links to slack discussions, issue comments, etc.
 
@@ -92,8 +96,7 @@ Maintainers are the technical authority for a subproject and are considered lead
 
 - Have at least ten (10) significant PRs successfully merged for any combination of repositories under the k0s organization
 - Member of the `#k0s` and `#k0s-dev` channels on Kubernetes Slack workspace
-- Regularly attends k0s [Maintainers and Community Meetings](https://k0s.io/community/#community-meetings)
-- Registered for the k0s [mailing list](https://groups.google.com/g/k0s)
+- Regularly attends k0s [Maintainers and Community Meetings](https://docs.google.com/document/d/1K7kc4nARFsM60RpzWF7xREF9FHySDuWSu9_6dstkLlg/edit?tab=t.0#heading=h.s485wlw1do6e)
 - Create a pull request to add self to `CODEOWNERS` file in at least one (1) repository
 - Attained the super majority vote (66%) from maintainers
 - Respond to reviews from maintainers on pull requests
@@ -139,8 +142,8 @@ Maintainers are the technical authority for a subproject and are considered lead
 **Off-boarding Criteria**
 
 An off-boarding vote may be called by any maintainer if any of the following criteria are met:
-- A maintainer has made less than 30 contributions over a span of 6 months.
-  - Contributions can be tracked using the [DevStats dashboard](https://k0s.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%206%20months&var-metric=contributions&var-repogroup_name=All&var-country_name=All&from=1522810884223&to=1680577284223&var-companies=All).
+- A maintainer has made less than 30 contributions over a span of 1 year.
+  - Contributions will be tracked manually until having an active Devstats Dashboard for the project.
   - Other relevant data will be collected and evaluated to assess the maintainer's contributions. This includes their involvement in discussions, conversations on Slack, and any other relevant interactions.
 
 The off-boarding process includes the following steps:
@@ -172,14 +175,12 @@ For this reason, maintainers can be specific to one (or more) area of the code b
 
 ### k0s Projects
 
-- [k0s](https://github.com/k0s/k0s)
-- [k0s Website](https://github.com/k0s/website)
-- [k0s Policies](https://github.com/k0s/policies)
-- [k0s JSON](https://github.com/k0s/k0s-json)
-- [k0s Chainsaw](https://github.com/k0s/chainsaw)
-- [k0s Playground](https://github.com/k0s/playground)
-- [k0s Policy Reporter](https://github.com/k0s/policy-reporter)
-- [k0s Reports Server](https://github.com/k0s/reports-server)
+- [k0s](https://github.com/k0sproject/k0s)
+- [k0smotron](https://github.com/k0sproject/k0smotron)
+- [k0sctl](https://github.com/k0sproject/k0sctl)
+- [k0sproject rig](https://github.com/k0sproject/rig)
+- [k0s Community](https://github.com/k0sproject/community)
+- [k0s Website](https://github.com/k0sproject/k0sproject.github.io)
 
 ### Projects areas
 
@@ -187,21 +188,10 @@ This list is not exhaustive and is subject to modifications as the project evolv
 
 | Project | Area | Description |
 |---|---|---|
-| k0s | `website` | k0s projects website and docs |
-| k0s | `policies-catalog` | k0s currated policies |
-| k0s | `helm-chart` | k0s Helm chart |
-| k0s | `engine` | k0s policy engine |
-| k0s | `cli` | k0s CLI |
-| k0s | `report-system` | k0s reporting system |
-| k0s JSON | -- | k0s JSON project |
-| k0s Chainsaw | -- | k0s Chainsaw project |
-| k0s Playground | `frontend` | k0s Playground frontend |
-| k0s Playground | `backend` | k0s Playground backend |
-| k0s Playground | `helm-chart` | k0s Playground Helm chart |
-| k0s Policy Reporter | `frontend` | k0s Policy Reporter frontend |
-| k0s Policy Reporter | `backend` | k0s Policy Reporter backend |
-| k0s Policy Reporter | `helm-chart` | k0s Policy Reporter Helm chart |
-| k0s Reports Server | -- | k0s Reports Server project |
+| k0sproject | `community` | k0s project community info |
+| k0sproject | `wasm enabler` | k0s wasm enabler |
+| k0sproject | `helm` | k0s Helm chart |
+| k0sproject | `k0sproject.github.io` | k0s Website |
 
 ## Conflict Resolutions
 
