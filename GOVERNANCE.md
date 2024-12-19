@@ -95,7 +95,7 @@ Maintainers are the technical authority for a subproject and are considered lead
 **Checklist before becoming a Maintainer:**
 
 - Have at least ten (10) significant PRs successfully merged for any combination of repositories under the k0s organization
-- Member of the `#k0s` and `#k0s-dev` channels on Kubernetes Slack workspace
+- Member of the `#k0s-users` and `#k0s-dev` channels on Kubernetes Slack workspace
 - Regularly attends k0s [Maintainers and Community Meetings](https://docs.google.com/document/d/1K7kc4nARFsM60RpzWF7xREF9FHySDuWSu9_6dstkLlg/edit?tab=t.0#heading=h.s485wlw1do6e)
 - Create a pull request to add self to `CODEOWNERS` file in at least one (1) repository
 - Attained the super majority vote (66%) from maintainers
