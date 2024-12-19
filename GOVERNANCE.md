@@ -182,16 +182,6 @@ For this reason, maintainers can be specific to one (or more) area of the code b
 - [k0s Community](https://github.com/k0sproject/community)
 - [k0s Website](https://github.com/k0sproject/k0sproject.github.io)
 
-### Projects areas
-
-This list is not exhaustive and is subject to modifications as the project evolves over time.
-
-| Project | Area | Description |
-|---|---|---|
-| k0sproject | `community` | k0s project community info |
-| k0sproject | `wasm enabler` | k0s wasm enabler |
-| k0sproject | `helm` | k0s Helm chart |
-| k0sproject | `k0sproject.github.io` | k0s Website |
 
 ## Conflict Resolutions
 
