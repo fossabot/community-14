@@ -16,7 +16,7 @@ k0s project is organized into a set of projects. Each project has a set of maint
 The projects are:
 
 * [k0s](https://github.com/k0sproject/k0s) - The Kubernetes Distribution
-* [k0smotron](https://github.com/k0sproject/k0smotron) - Efficient Management of k0s Clusters
+* [k0smotron](https://github.com/k0sproject/k0smotron) - Efficient Management of k0s Clusters with ClusterAPI
 * [k0sctl](https://github.com/k0sproject/k0sctl) - A command-line bootstrapping and management tool for k0s
   
 
