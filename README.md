@@ -13,7 +13,7 @@ The k0s Project community has one regular community meeting:
 
 k0s project is organized into a set of projects. Each project has a set of maintainers. The maintainers are responsible for driving the project, publishing a roadmap, organizing community meetings, publishing meeting notes, and reporting on the current status of the project.
 
-The projects are:
+The main projects are:
 
 * [k0s](https://github.com/k0sproject/k0s) - The Kubernetes Distribution
 * [k0smotron](https://github.com/k0sproject/k0smotron) - Efficient Management of k0s Clusters with ClusterAPI
